@@ -27,6 +27,7 @@ online library management system
 <li>Student can also change own password and recover.</li>
 
 </ul>
-
+<2>How to run this Project:</h2>
+Put library folder inside root directory
 </body>
 </html>
